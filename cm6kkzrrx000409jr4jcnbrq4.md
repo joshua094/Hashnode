@@ -6,7 +6,7 @@ datePublished: Fri Jan 31 2025 09:48:08 GMT+0000 (Coordinated Universal Time)
 cuid: cm6kkzrrx000409jr4jcnbrq4
 slug: decentralized-vs-centralized-oracles-unveiling-trust-models-in-blockchain
 canonical: https://dev.to/bandojay/decentralized-oracles-vs-centralized-oracles-a-deep-dive-into-trust-models-bb2
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1738315852538/10ee1426-eb7c-4697-96e5-e73836830c6d.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1741763332156/72c35fe1-b845-452d-ab59-f265876fe9ea.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1738316467303/1ad701d1-1167-4fe4-95e9-033d96a5eda8.png
 tags: web-development, blockchain, cryptocurrency, web3
 
