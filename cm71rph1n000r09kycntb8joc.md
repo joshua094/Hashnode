@@ -1,10 +1,10 @@
 ---
-title: "Chainlink CCIP: A Secure Cross-Chain Communication Protocol"
+title: "Exploring Chainlink CCIP: A Trusted Protocol for Cross-Chain Security"
 seoTitle: "Chainlink CCIP enables cross-chain communication"
 seoDescription: "Discover Chainlink's CCIP for secure, decentralized cross-chain communication across blockchains"
 datePublished: Wed Feb 12 2025 10:28:10 GMT+0000 (Coordinated Universal Time)
 cuid: cm71rph1n000r09kycntb8joc
-slug: chainlink-ccip-a-secure-cross-chain-communication-protocol
+slug: exploring-chainlink-ccip-a-trusted-protocol-for-cross-chain-security
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739355896578/0da85d9b-6e63-42c6-bc39-e5d38c542f17.png
 tags: blockchain, web3, cross-chain, chainlink
 
