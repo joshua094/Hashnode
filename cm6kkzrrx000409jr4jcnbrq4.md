@@ -1,10 +1,10 @@
 ---
-title: "Decentralized Oracles vs. Centralized Oracles: A Deep Dive into Trust Models"
-seoTitle: "Decentralized Oracles vs. Centralized Oracles"
-seoDescription: "Explore centralized vs. decentralized oracles, trust models, and blockchain impact in this detailed analysis"
+title: "Decentralized vs. Centralized Oracles: Unveiling Trust Models in Blockchain"
+seoTitle: "Decentralized vs. Centralized Oracles: Trust"
+seoDescription: "Explore the key differences between decentralized and centralized oracles and their impact on blockchain's trust models and data integrity"
 datePublished: Fri Jan 31 2025 09:48:08 GMT+0000 (Coordinated Universal Time)
 cuid: cm6kkzrrx000409jr4jcnbrq4
-slug: decentralized-oracles-vs-centralized-oracles-a-deep-dive-into-trust-models
+slug: decentralized-vs-centralized-oracles-unveiling-trust-models-in-blockchain
 canonical: https://dev.to/bandojay/decentralized-oracles-vs-centralized-oracles-a-deep-dive-into-trust-models-bb2
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1738315852538/10ee1426-eb7c-4697-96e5-e73836830c6d.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1738316467303/1ad701d1-1167-4fe4-95e9-033d96a5eda8.png
