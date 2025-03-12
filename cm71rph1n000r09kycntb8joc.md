@@ -5,7 +5,7 @@ seoDescription: "Discover Chainlink's CCIP for secure, decentralized cross-chain
 datePublished: Wed Feb 12 2025 10:28:10 GMT+0000 (Coordinated Universal Time)
 cuid: cm71rph1n000r09kycntb8joc
 slug: exploring-chainlink-ccip-a-trusted-protocol-for-cross-chain-security
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739355896578/0da85d9b-6e63-42c6-bc39-e5d38c542f17.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1741763186210/2b0b7c01-ff41-4958-adf4-85976cc796d9.png
 tags: blockchain, web3, cross-chain, chainlink
 
 ---
